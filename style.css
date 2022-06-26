@@ -1,0 +1,31 @@
+body{
+    font-family: 'Salsa', cursive;
+    background-image :  linear-gradient(white,aqua,blue), 
+    linear-gradient(darkblue,blue,aqua,white); 
+}
+.header_div{
+   background: rgb(80, 205, 255);
+   color: whitesmoke;
+}
+.header_div p{
+    font-family: 'Salsa', cursive;
+    color: black;
+    letter-spacing: 3px;
+    font-size: 14px;
+    font-weight: bold;
+}
+.main_div button{
+    font-family: 'Sumana', serif;
+    margin-top: 30px;
+    width: 5%;
+    font-size: 35px;
+}
+.footer{
+    position: fixed;
+    color: whitesmoke;
+    bottom: 0;
+    width: 100%;
+    font-size: 20px;
+    background-color: blue;
+    text-align: center;
+}
